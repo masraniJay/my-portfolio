@@ -28,7 +28,7 @@ hr {
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
-
+    
 .primary-link {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
@@ -113,4 +113,8 @@ hr {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+.footer .footer-header {
+     font-weight: bold;
+     font-size: large;
 }
